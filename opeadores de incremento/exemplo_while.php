@@ -12,3 +12,21 @@ while (expressão):
     //codigo
 endwhile;
 -->
+
+<?php
+
+$contador_soma = 0;
+$contador_subtracao = 10;
+
+while($contador_soma <= 10){
+    echo $contador_soma . "<br>";
+    $contador_soma++;
+}
+
+while($contador_subtracao >=0){
+    echo $contador_subtracao . "<br>";
+    $contador_subtracao--;
+}
+
+?>
+
