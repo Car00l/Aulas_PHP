@@ -2,7 +2,7 @@
 
 $operador = "*";
 
-require "o.php";
+require "funcao_tabuada";
 
 if($operador == "*"){
     echo tabuada(9);
