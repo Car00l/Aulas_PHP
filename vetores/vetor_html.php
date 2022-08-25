@@ -16,6 +16,7 @@ $dados = array(
 
 echo var_dump($dados);
 
+
 $dados[] = "Teste";
 $dados[] = false;
 
