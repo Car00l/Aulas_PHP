@@ -61,6 +61,6 @@ $vetor = array(
 );
 
 echo var_dump($vetor) ."</br>";
-echo "A quantidade de posições é " .count($vetor);
+echo "A quantidade de posições é " .count($vetor); //conta os vetores
 ?>
 
